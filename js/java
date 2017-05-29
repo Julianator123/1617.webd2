@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+</head>
+
+<body>
+
+<script type="text/javascript">
+
+var bucky = 12;
+bucky += 6;
+bucky -= 1;
+bucky *= 12;
+
+document.write(bucky);
+
+  
+
+</script>
+<form>
+    
+</form>
+
+
+</body>
+
+</html>
+
